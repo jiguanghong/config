@@ -1,4 +1,4 @@
 server:
   port: 10088
 user:
-  name: dev
+  name: jee-dev
